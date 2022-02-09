@@ -1,0 +1,28 @@
+.modal{
+    margin:auto;
+    background-color: #FFFFFF;
+    width: 438px;
+height: 537px;
+margin-top:6%;
+border:3px solid;
+border-color: whitesmoke;
+}
+
+.close-button{
+    float:right;
+    /* border: 1.5px solid #B5B5B5; */
+    padding:22.64px 22.64px 0px 0px ;
+}
+/* .modal-container{ */
+    /* margin:auto; */
+/* } */
+/* .modal{ */
+  
+/* margin-top:50%;
+margin-left:50%;
+left: 50%;
+      right: auto;
+      bottom: auto;
+      margin-right: -50%;
+      transform: translate(-50%, -50%);
+      justify-content: center;  */
